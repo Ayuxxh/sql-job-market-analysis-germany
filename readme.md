@@ -1,6 +1,6 @@
 # 🔍 Exploratory Data Analysis w/ SQL: Data Scientist Job Market in Germany
 
-![EDA Project Overview](Resources/EDA1.svg)
+![EDA Project Overview](resources/EDA1.svg)
 
 A SQL project analyzing the **data scientist job market in Germany** using real world job posting data. It demonstrates my ability to **write production-quality analytical SQL, design efficient queries, and turn business questions into data-driven insights**.
 
